@@ -1,0 +1,33 @@
+
+g
+java:S1226"EIntroduce a new variable instead of reusing the parameter "fileName".(ÑªÚãøÿÿÿÿ8úŞ¦ò¹.
+[
+java:S1128">Remove this unused import 'java.util.logging.SimpleFormatter'.(ÇöÁ8úŞ¦ò¹.
+R
+java:S1481L"0Remove this unused "headerSplit" local variable.(õ…—Şüÿÿÿÿ8ÈÁò¹.
+J	java:S108[")Either remove or fill this block of code.(ä–¤—úÿÿÿÿ8„ÿÊò¹.
+n
+java:S2095J"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(ÆïÕ¾ùÿÿÿÿ8úŞ¦ò¹.
+c
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(ÑªÚãøÿÿÿÿ8úŞ¦ò¹.
+˜
+java:S1130"{Remove the declaration of thrown exception 'java.io.FileNotFoundException', as it cannot be thrown from constructor's body.(ûë‚¸8ëª¹.
+œ
+java:S11863"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¸¯‹õüÿÿÿÿ
+n
+java:S2095&"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(ÆïÕ¾ùÿÿÿÿ8úŞ¦ò¹.
+Q
+java:S1128	"4Remove this unused import 'java.util.regex.Matcher'.(ëÅ›ã8ÈÁò¹.
+V
+java:S1128
+"4Remove this unused import 'java.util.regex.Pattern'.(Ã•…Äúÿÿÿÿ8ÈÁò¹.
+M
+java:S1135G"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ
+\
+java:S1128"?Remove this unused import 'java.time.format.DateTimeFormatter'.(‰÷÷ª8úŞ¦ò¹.
+M
+java:S1135$"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ
+a
+java:S1854L"?Remove this useless assignment to local variable "headerSplit".(õ…—Şüÿÿÿÿ8ÈÁò¹.
+T
+java:S1128"7Remove this unused import 'java.text.SimpleDateFormat'.(ú¡ÙÛ8úŞ¦ò¹.
